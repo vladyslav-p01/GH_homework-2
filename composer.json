@@ -1,0 +1,16 @@
+{
+    "name": "phpunit/php-timer",
+    "description": "1.0.7",
+    "authors": [
+        {
+            "name": "Vladyslav",
+            "email": "vladyslav.p01@gmail.com"
+        }
+    ],
+    "require": {
+        "Guzzle/Guzzle": "^3.9",
+        "phpunit/php-timer": "^1.0",
+        "twig/twig": "~1.0",
+        "php": "^5.5"
+    }
+}
