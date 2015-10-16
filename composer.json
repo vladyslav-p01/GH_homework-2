@@ -1,15 +1,14 @@
 {
-    "name": "phpunit/php-timer",
-    "description": "1.0.7",
+    "name": "root/hw.com",
     "authors": [
         {
             "name": "Vladyslav",
             "email": "vladyslav.p01@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "Guzzle/Guzzle": "^3.9",
-        "phpunit/php-timer": "^1.0",
         "twig/twig": "~1.0",
         "php": "^5.5"
     }
